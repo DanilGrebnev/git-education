@@ -1,1 +1,2 @@
-const first = 'first'
+const first = "first";
+const two = "two";
